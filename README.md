@@ -14,5 +14,5 @@ Designed to run on online C compilers or terminals(Preferably GDB)
 that support ANSI escape sequences.
 
 ## Author
-Shishwitha Musham
-Lima Sri 
+1.Shishwitha Musham
+2.Lima Sri 
